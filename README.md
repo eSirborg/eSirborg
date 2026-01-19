@@ -1,7 +1,8 @@
 # Hi there 👋
 I'm Erik — a Master's student in Information and Communication Technology at KTH (Stockholm).
 
-📫 **Contact:** e.sirborg@gmail.com • [LinkedIn](YOUR_LINK_HERE)
+e.sirborg@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/erik-sirborg-5bb0a2132/?originalSubdomain=se)
 
 ## My projects
 Hover over the language bar in each repo to see the tech stack.
