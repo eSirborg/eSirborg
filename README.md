@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+I'm Erik — a Master's student in Information and Communication Technology at KTH (Stockholm).
 
-<!--
-**eSirborg/eSirborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Contact:** e.sirborg@gmail.com • [LinkedIn](YOUR_LINK_HERE)
 
-Here are some ideas to get you started:
+## My projects
+Hover over the language bar in each repo to see the tech stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Team | Tech | Keywords |
+|---|---|---:|---|---|
+| [Network-Socket-Project](https://github.com/eSirborg/Network-Socket-Project) | TCP client–server application in Java using socket programming and byte-level I/O. | Solo | Java | Networking, TCP, Sockets |
+| [ml-feature-engineering-project](https://github.com/eSirborg/ml-feature-engineering-project) | Iteratively improved predictive models through preprocessing and feature engineering. | Group | Python | ML, scikit-learn, Feature Engineering |
+| [fireCRM](https://github.com/eSirborg/fireCRM) | Customer relationship management web application. | Solo/Group | TypeScript | Next.js, Firebase, Web |
+| [CultureGO](https://github.com/eSirborg/CultureGO) | Web app showcasing cultural sites in Stockholm. | Group | React/Firebase | Web, UI, Firebase |
+| [logic-programming-prolog](https://github.com/eSirborg/logic-programming-prolog) | Math reasoning / problem solving using declarative logic programming in Prolog. | Solo | Prolog | Logic, Reasoning |
