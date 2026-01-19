@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Erik — a Master's student in Information and Communication Technology at KTH.
 
-e.sirborg@gmail.com 
+e.sirborg@gmail.com, 
 [LinkedIn](https://www.linkedin.com/in/erik-sirborg-5bb0a2132/?originalSubdomain=se)
 
 ## My projects
