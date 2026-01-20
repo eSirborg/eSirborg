@@ -7,7 +7,7 @@ e.sirborg@gmail.com,
 ## My projects
 
 | Project | Description | Language |
-|---|---|---:|
+|---|---|---|
 | [Network Socket Project](https://github.com/eSirborg/Network-Socket-Project) | TCP client–server application in Java using socket programming and byte-level I/O. | Java | 
 | [Machine Learning Feature Engineering Project](https://github.com/eSirborg/ml-feature-engineering-project) | Iteratively improved predictive models through preprocessing and feature engineering. | Python | 
  [Stock Market Simulator Project](https://github.com/eSirborg/Stock-Market-Simulator-Project) | Project simulating the outcome of various trading strategies. | HTML | 
