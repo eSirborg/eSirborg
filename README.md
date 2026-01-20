@@ -10,6 +10,7 @@ e.sirborg@gmail.com,
 |---|---|---:|---|
 | [Network Socket Project](https://github.com/eSirborg/Network-Socket-Project) | TCP client–server application in Java using socket programming and byte-level I/O. | Solo | Java | 
 | [Machine Learning Feature Engineering Project](https://github.com/eSirborg/ml-feature-engineering-project) | Iteratively improved predictive models through preprocessing and feature engineering. | Group | Python | 
+ [Stock-Market-Simulator-Project](https://github.com/eSirborg/Stock-Market-Simulator-Project) | Project simulating the outcome of various trading strategies | Group | HTML | 
 | [Customer relationship Management Project](https://github.com/eSirborg/Customer-Relations-Management-Project) | Customer relationship management web application. | Group | TypeScript | 
 | [CultureGO](https://github.com/eSirborg/CultureGO) | Web app showcasing cultural sites in Stockholm. | Group | JavaScript | 
 | [Chipkit Snake Project](https://github.com/eSirborg/Chipkit-Snake-Project) | Snake Game for UNO32 Chipkit | Group | C, Assembly | 
