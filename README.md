@@ -14,3 +14,16 @@ e.sirborg@gmail.com,
 | [Customer relationship Management Project](https://github.com/eSirborg/Customer-Relations-Management-Project) | Customer relationship management web application. | Group | TypeScript | 
 | [CultureGO](https://github.com/eSirborg/CultureGO) | Web app showcasing cultural sites in Stockholm. | Group | JavaScript | 
 | [Chipkit Snake Project](https://github.com/eSirborg/Chipkit-Snake-Project) | Snake Game for UNO32 Chipkit | Group | C, Assembly | 
+
+
+<h3>Languages and Tools I Have Worked With</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
