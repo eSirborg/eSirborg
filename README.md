@@ -6,7 +6,7 @@ e.sirborg@gmail.com,
 
 ## My projects
 
-| Project | Description | Team | Language |
+| Project | Description | Language |
 |---|---|---:|---|
 | [Network Socket Project](https://github.com/eSirborg/Network-Socket-Project) | TCP client–server application in Java using socket programming and byte-level I/O. | Java | 
 | [Machine Learning Feature Engineering Project](https://github.com/eSirborg/ml-feature-engineering-project) | Iteratively improved predictive models through preprocessing and feature engineering. | Python | 
